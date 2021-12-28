@@ -1,0 +1,15 @@
+# This file will be read by resetprop
+# Example: Change dpi
+# ro.sf.lcd_density=320
+
+
+#=============================#
+# < NICKMOD = COS-MIUI-MOD     #
+# < VERSION = In the filename #
+# < DATE = 28-12-2021         #
+#=============================#
+
+# MIUI Feature
+# Power Changer
+persist.sys.power.default.powermode=1
+
